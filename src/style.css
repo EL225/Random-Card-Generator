@@ -4,5 +4,25 @@ body {
 }
 .card {
   background: white;
-  margin-top: 0;
+  margin-top: 10px;
+}
+.num {
+  font-size: 300px;
+}
+.icon {
+  color: red;
+  font-size: 150px;
+  text-align: left;
+  margin: 0;
+  padding: 10px;
+}
+.iconbottom {
+  color: red;
+  font-size: 150px;
+  text-align: left;
+  margin: 0%;
+  padding: 10px;
+}
+.iconrot {
+  transform: rotate(180deg);
 }
